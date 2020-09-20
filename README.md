@@ -1,4 +1,4 @@
-##Casper, the Candy Ghost
+## Casper, the Candy Ghost
 
 ## Inspiration
 We want Halloween, so we hacked a way to keep everyone safe with Casper. We wanted to create something that will positively impact the community and allow people to feel safe enough to participate in Halloween. By using incentives, like candy, people will be adherent to the Covid-19 guidelines by requiring them to wear a mask.
